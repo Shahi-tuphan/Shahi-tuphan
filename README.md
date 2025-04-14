@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahi-tuphan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ oop
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on github with talanted people/
 - 📫 How to reach me check my profile
 - 😄 Pronouns: ...
